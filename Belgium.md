@@ -1,4 +1,3 @@
-### Belgium <a name="belgium"></a>
 #### Flanders
 | Original attribute table column name |           |
 | ------------------------------------ | --------- |
