@@ -1,3 +1,5 @@
+[Contact](maja601.github.io)
+
 [![CC BY 4.0][cc-by-image]][cc-by]
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
