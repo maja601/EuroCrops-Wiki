@@ -1,4 +1,4 @@
-[Contact](maja601.github.io)
+[Contact](http://maja601.github.io)
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
