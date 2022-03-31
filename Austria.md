@@ -21,4 +21,4 @@
 | GML_GEOM                             |           |
 | GML_LENGTH                           |           |
 
-## Largest classes and Stats
+## Largest classes and stats
