@@ -39,4 +39,5 @@ Data from 2021:
 
 2.610.510 unique parcels
 
-<p align="center"><img width=43.5% src="https://user-images.githubusercontent.com/22978370/157669864-2d5d0df7-1fb0-40b6-ace3-a625cfef6195.png"></p>
+<p align="center"><img width=43.5% src="https://user-images.githubusercontent.com/33942086/161249962-3c67bc6a-5b59-4c46-911d-32f1d4d276c0.png"></p>
+
