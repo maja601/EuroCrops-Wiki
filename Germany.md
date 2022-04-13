@@ -1,5 +1,6 @@
 #### Lower Saxony
-
+- 2021
+- 917,161 parcels
 
 
 | Original attribute table column name |           |
