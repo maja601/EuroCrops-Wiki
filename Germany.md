@@ -1,4 +1,6 @@
 #### Lower Saxony
+- 2021
+- 745,409 parcels
 | Original attribute table column name |           |
 | ------------------------------------ | --------- |
 | FLIK | |
