@@ -1,4 +1,7 @@
 #### Flanders
+- 2019
+- 601,349 parcels
+
 | Original attribute table column name |           |
 | ------------------------------------ | --------- |
 |  GRAF_OPP | |
