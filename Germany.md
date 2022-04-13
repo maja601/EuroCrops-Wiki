@@ -1,6 +1,7 @@
 #### Lower Saxony
-- 2021
-- 745,409 parcels
+
+
+
 | Original attribute table column name |           |
 | ------------------------------------ | --------- |
 | FLIK | |
@@ -10,6 +11,10 @@
 | ANTRAGSJAH | |
 
 #### North Rhine Westphalia
+- 2021
+- 732,845 parcels
+
+
 | Original attribute table column name |           |
 | ------------------------------------ | --------- |
 | ID | |
