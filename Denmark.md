@@ -1,4 +1,4 @@
 - 2019
-- 589,269 parcels
+- 587,461 parcels
 
 > TODO
