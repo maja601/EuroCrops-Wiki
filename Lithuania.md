@@ -21,6 +21,8 @@ Metaduomenys (Metadata) / Duomenų resursas (1) (Data Identification (1)) / Teis
 	Prieigos apribojimai (Access Constraints): Autoriaus teisės (Copyright)
 	Naudojimo apribojimai (Use Constraints): Autoriaus teisės (Copyright)
 ```
+[Copyright](https://www.geoportal.lt/geoportal/en/web/en/copyright)
+
 ## Data in EuroCrops
 - 2021
 - 1,105,856 parcels
