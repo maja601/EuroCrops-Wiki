@@ -1,4 +1,8 @@
-#### Flanders (VLG)
+## Reference, Data Source and License
+**Reference:** Departement Landbouw en Visserij – [Landbouwcijfers](www.vlaanderen.be/landbouwcijfers)
+
+**Source of the data:** [landbouwcijfers.vlaanderen.be](https://landbouwcijfers.vlaanderen.be/open-geodata-landbouwgebruikspercelen)
+### Flanders (VLG)
 - 2019
 - 601,349 parcels
 
@@ -30,4 +34,4 @@
 |  WGS84_LG | |
 |  WGS84_BG | |
 
-#### Wallonia
+### Wallonia
