@@ -1,4 +1,4 @@
-_**Disclaimer**: EuroCrops currently only holds data from the region of Navarra_
+_**Disclaimer**: EuroCrops currently only includes data from the region of Navarra._
 ## Data Source
 [SIGPAC Navarra](https://sigpac.navarra.es/)
 ## License Terms
