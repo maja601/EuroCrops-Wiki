@@ -9,8 +9,24 @@ If link does not work, search for `Estonia` --> `Geospatial Aid Application Esto
 ### Limitations On Public Access
 avaliku juurdepääsu piirangud puuduvad (_no public access restrictions_)
 
-## Data in EuroCrops
-- 2021
-- 176,064 parcels
+## Attribute Table
+| Original attribute table column name |           |
+| ------------------------------------ | --------- |
+| taotlusaasta | year |
+| pollu_id |  |
+| pindala_ha | area (in ha) |
+| taotletud_kultuur | requested crop culture |
+| taotletud_maakasutus | requested land use |
+| niitmise_tuvastamise_staatus | mowing detection status |
+| niitmise_tuvast_ajavahemik | mowing detection period |
+| viimase_muutmise_aeg | Last edit time |
+| taotletud_toetus | requested support |
+| taotleja_nimi | name of applicant |
+| taotleja_registrikood | applicant's registration code |
 
-## Attribute table and feature description
+## Largest classes and stats
+Data from 2021:
+
+239 different classes
+
+176.064 unique parcels
