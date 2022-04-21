@@ -4,9 +4,20 @@
 **Easier to access:** [Website by Christian Quest](http://data.cquest.org/registre_parcellaire_graphique/2018/)
 ## License Terms
 [Licence Ouverte / Open Licence](https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence_Ouverte.pdf)
-## Data in EuroCrops
-- 2018
-- 9,517,878 parcels
 
 ## Attribute Table
-> TODO
+| Original attribute table column name |           |
+| ------------------------------------ | --------- |
+| ID_PARCEL | parcel ID|
+| SURF_PARC | area (in ha) |
+| **CODE_CULTU** | code of crop (string) |
+| CODE_GROUP | code of crop (integer) |
+| CULTURE_D1 | |
+| CULTURE_D2 | |
+
+## Largest classes and stats
+Data from 2018:
+
+282 different classes
+
+9.517.877 unique parcels
