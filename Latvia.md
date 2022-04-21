@@ -4,12 +4,16 @@
 ## Attribute table and feature description 
 | Original attribute table column name |                                       |
 | ------------------------------------ |---------------------------------------|
-| KZS_NR                               |                                       |
-| DKL_PLOTAS                           | vague area                            |
-| **GRUPE**                            | crop type                             |
-| NMA_ID                               |                                       |
-| Shape_Len                            | perimeter of parcel                   |
-| Shape_Area                           | exact area (in sq m)                  |
+| OBJECTID                               | year                                      |
+| PERIOD_CODE                           | vague area                            |
+| PARCEL_ID                            | crop type                             |
+| PRODUCT_CODE                               |                                       |
+| AID_FORMS                            | perimeter of parcel                   |
+| AREA_DECLARED                           | exact area (in sq m)                  |
+| DATA_CHANGED_DATE                           | exact area (in sq m)                  |
+| **PRODUCT_DESCRIPTION**                           | exact area (in sq m)                  |
+| SHAPE.AREA                           | exact area (in sq m)                  |
+| SHAPE.LEN                           | exact area (in sq m)                  |
 
 
 ## Largest classes and stats
