@@ -1,5 +1,23 @@
-> TODO
+## Data Source
+Download via WFS `https://www.ifap.pt/isip/ows/isip.data/wfs` or over the [IFAP website](https://www.ifap.pt/isip/ows/).
+## License
+From [Sistema Nacional de Informação Geográfica](https://snig.dgterritorio.gov.pt/rndg/srv/por/catalog.search#/metadata/5b514567-1590-45ce-82fa-e9bb84a95b34):
 
+```
+Política de Dados
+Classificação            Não classificado
+Restrições legais        Acesso público limitado de acordo com o Artigo 13(1)(e) da Diretiva INSPIRE
+                         Serviço de visualização sem restrições. Serviço de descarregamento sujeirto a direitos de propriedade intelectual
+Restrições de recurso    Sem restrições
+```
+
+```
+Data Policy
+Classification           Not classified
+Legal Restriction        Public access limited in accordance with Article 13(1)(e) of the INSPIRE Directive
+                         Unrestricted viewing service. Downloading service subject to intellectual property rights
+Feature Restrictions     Unrestricted
+```
 
 ## Attribute table and feature description 
 | Original attribute table column name |                                       |
@@ -22,6 +40,7 @@
 
 ## Largest classes and stats
 (Disclaimer: Multiple crop classes for several parcels. We only included the first one in the harmonisation.)
+
 Data from 2021:
 
 217 different classes
