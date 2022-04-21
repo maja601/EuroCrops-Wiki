@@ -15,9 +15,20 @@ Use limitation:     Publicly available data, no limitation of use, citation of s
 Access constraint:  No constraint
 ```
 
-## Data in EuroCrops
-- 2021
-- 828,161 parcels
+## Attribute table and feature description 
+| Original attribute table column name |                                       |
+| ------------------------------------ |---------------------------------------|
+| ID                                   | crop type polygon identification number|
+| GERK_PID                             | GERK polygon identification number    |
+| SIFRA_KMRS                           | crop type class                       |
+| AREA                                 | GERK area (in sq m)                   |
+| **RASTLINA**                         | crop type in slovenian language       |
+| **CROP_LATIN**                       | crop type in latin or english language|
+| COLOR                                | color (hex), used for display by MAFF |
 
-## Attribute Table
-> TODO
+## Largest classes and stats
+Data from 2021:
+
+141 different classes
+
+828.161 unique parcels
