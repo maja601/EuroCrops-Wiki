@@ -2,9 +2,9 @@
 ### Source
 **Data Source:** [LEA-Portal](https://sla.niedersachsen.de/landentwicklung/LEA/)
 
-**Quelle:** Auszug aus den Geodaten des Landesamtes für Geoinformation und Landesvermessung Niedersachsen, 2021, LGLN-Lizens Bildrechte: LGLN
+**Geometries:** Reference: Extract from the geodata of the State Office for Geoinformation and Land Surveying of Lower Saxony, 2021, LGLN licences Image rights: LGLN
 
-**Reference:** Extract from the geodata of the State Office for Geoinformation and Land Surveying of Lower Saxony, 2021, LGLN licences Image rights: LGLN
+**Rural development and agricultural promotion Data:** [SLA](https://www.sla.niedersachsen.de/landentwicklung/anwendungen/leaportal/landentwicklung-und-agrarfoerderung-auskunftsdienste-86779.html)
 
 ### License Terms
 [Data licence Germany – attribution – version 2.0](https://www.govdata.de/dl-de/by-2-0)
