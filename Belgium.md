@@ -2,10 +2,10 @@
 **Reference:** Departement Landbouw en Visserij – [Landbouwcijfers](www.vlaanderen.be/landbouwcijfers)
 
 **Source of the data:** [landbouwcijfers.vlaanderen.be](https://landbouwcijfers.vlaanderen.be/open-geodata-landbouwgebruikspercelen)
-### Flanders (VLG)
-- 2019
-- 601,349 parcels
 
+## Flanders (VLG)
+
+### Attribute Table
 | Original attribute table column name |           |
 | ------------------------------------ | --------- |
 |  GRAF_OPP | |
@@ -34,4 +34,28 @@
 |  WGS84_LG | |
 |  WGS84_BG | |
 
-### Wallonia
+### Largest classes and stats
+Data from 2019:
+
+274 different classes
+
+601.349 unique parcels
+
+## Wallonia
+
+### Attribute Table
+| Original attribute table column name |           |
+| ------------------------------------ | --------- |
+| OBJECTID | ID of the objects |
+| CAMPAGNE | year of inventory |
+| CULT_COD | crop type code |
+| **CULT_NOM** | crop type name |
+| GROUPE_CUL | vague plant supergroup |
+| SURF_HA | area (in ha) |
+
+### Largest classes and stats
+Data from 2018:
+
+149  different classes
+
+340.899 unique parcels
