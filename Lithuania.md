@@ -23,9 +23,20 @@ Metaduomenys (Metadata) / Duomenų resursas (1) (Data Identification (1)) / Teis
 ```
 [Copyright](https://www.geoportal.lt/geoportal/en/web/en/copyright)
 
-## Data in EuroCrops
-- 2021
-- 1,105,856 parcels
+## Attribute table and feature description 
+| Original attribute table column name |                                       |
+| ------------------------------------ |---------------------------------------|
+| KZS_NR                               |                                       |
+| DKL_PLOTAS                           | vague area                            |
+| **GRUPE**                            | crop type                             |
+| NMA_ID                               |                                       |
+| Shape_Len                            | perimeter of parcel                   |
+| Shape_Area                           | exact area (in sq m)                  |
 
-## Attribute Table
-> TODO
+
+## Largest classes and stats
+Data from 2021:
+
+138 different classes
+
+1.102.471 unique parcels
