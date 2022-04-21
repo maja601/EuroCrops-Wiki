@@ -35,7 +35,6 @@ Partial payments requested and found eligible in NRW [Internet]. Geoportal; 2022
 
 
 ### Attribute Table
-
 | Original attribute table column name |           |
 | ------------------------------------ | --------- |
 | ID | |
