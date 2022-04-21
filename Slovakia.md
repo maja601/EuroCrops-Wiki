@@ -20,7 +20,7 @@
 | ***KULTURA**                         | arable crop (9 classes)               |
 | KULTURA_CI                           | code of arable crop                   |
 | Shape_Leng                           |                                       |
-| Shape_Area                           | area (in qm)                          |
+| Shape_Area                           | area (in sq m)                        |
 
 ## Attribute table and feature description for requested data
 | Original attribute table column name |                                       |
@@ -32,7 +32,7 @@
 | Kultura                              |                                       |
 | **Plodina**                          | crop name (174 classes)               |
 | Shape_Leng                           |                                       |
-| Shape_Area                           | area (in qm)                          |
+| Shape_Area                           | area (in sq m)                        |
 
 ## Largest classes and stats
 Data from 2021:
