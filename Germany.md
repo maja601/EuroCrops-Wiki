@@ -18,10 +18,10 @@
 | Original attribute table column name |           |
 | ------------------------------------ | --------- |
 | FLIK | |
-| SCHLAGNR | |
+| SCHLAGNR | parcel ID |
 | TEILSCHLAG | |
 | **KULTURCODE** | crop code |
-| ANTRAGSJAH | |
+| ANTRAGSJAH | year of application |
 
 ## North Rhine Westphalia
 
