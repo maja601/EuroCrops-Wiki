@@ -37,6 +37,6 @@ Metaduomenys (Metadata) / Duomenų resursas (1) (Data Identification (1)) / Teis
 ## Largest classes and stats
 Data from 2021:
 
-138 different classes
+24 different classes
 
 1.102.471 unique parcels
