@@ -4,16 +4,16 @@
 ## Attribute table and feature description 
 | Original attribute table column name |                                       |
 | ------------------------------------ |---------------------------------------|
-| OBJECTID                               | year                                      |
-| PERIOD_CODE                           | vague area                            |
-| PARCEL_ID                            | crop type                             |
-| PRODUCT_CODE                               |                                       |
-| AID_FORMS                            | perimeter of parcel                   |
-| AREA_DECLARED                           | exact area (in sq m)                  |
-| DATA_CHANGED_DATE                           | exact area (in sq m)                  |
-| **PRODUCT_DESCRIPTION**                           | exact area (in sq m)                  |
-| SHAPE.AREA                           | exact area (in sq m)                  |
-| SHAPE.LEN                           | exact area (in sq m)                  |
+| OBJECTID                             | Identification number of each object  |
+| PERIOD_CODE                          | year                                  |
+| PARCEL_ID                            | Identification number of each parcel  |
+| PRODUCT_CODE                         | crop type ID                          |
+| AID_FORMS                            | subsidy type                          |
+| AREA_DECLARED                        | area (in ha)                          |
+| DATA_CHANGED_DATE                    | date of change in data                |
+| **PRODUCT_DESCRIPTION**              | crop type                             |
+| SHAPE.AREA                           | area (in ha)                          |
+| SHAPE.LEN                            |                                       |
 
 
 ## Largest classes and stats
