@@ -1,5 +1,10 @@
-663,654 parcels (Border Region)
-> TODO
+## Data Source
+[data.europa.eu](https://data.europa.eu/data/datasets/092425a1-90c6-4461-b1a6-6f5b0f72748f?locale=ro)
+## License
+[Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/)
+## Data in EuroCrops
+- unknown year
+- 663,654 parcels (Border Region)
 
 
 ## Attribute table and feature description 
