@@ -23,7 +23,7 @@ Data from 2021:
 
 236 different classes
 
-917.161 unique parcels
+917,161 unique parcels
 
 ## North Rhine Westphalia
 
@@ -57,4 +57,4 @@ Data from 2021:
 
 246 different classes
 
-732.845 unique parcels
+732,845 unique parcels
