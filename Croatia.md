@@ -10,48 +10,32 @@ _"In accordance with the National Spatial Data Infrastructure Strategy 2020, the
 ## Attribute table and feature description
 | Original attribute table column name |                                       |
 | ------------------------------------ |---------------------------------------|
-| ogc_fid                              |            |
-| id                           | ARKOD ID |
-| land_use_id                | code of land use                             |
-| home_name                 | home name                                      |
-| area                               | area (in sq m)                                      |
-| perim                           | perimeter                                      |
-| slope                               | slope of parcel (in %)                                      |
-| z_avg                               | average height (in m)                                      |
-| eligibility_coef                            | acceptance coefficient                                      |
-| mines_status                         | demining status                                      |
-| mines_year_removed                             | year of demining                                      |
-| water_protect_zone                    | water protection area                                      |
-| natura2000                              | NATURA2000 (in m2)                                      |
-| natura2000_ok                             | Natura2000 - mowing delay                 |
-| natura2000_pop                             | inside NATURA2000 POP                                      |
-| natura2000_povs                           | inside NATURA2000 POVS                                      |
-| anc                           | restricted surface                                    |
-| anc_area                           | area of restricted surface (in m2)                                     |
-| rp                           | vulnerable areas                                      |
-| sanitary_protection_zone                           | sanitary protection zone                                      |
-| tvpv                           | meadow with high degree of natural value                                       |
-| tvpv                           | meadow with high degree of natural value                                       |
-| tvpv                           | meadow with high degree of natural value                                       |
-| tvpv                           | meadow with high degree of natural value                                       |
-| tvpv                           | meadow with high degree of natural value                                       |
-| tvpv                           | meadow with high degree of natural value                                       |
-| tvpv                           | meadow with high degree of natural value                                       |
-| tvpv                           | meadow with high degree of natural value                                       |
-
-
-ot_nat
-Umweltsensible Dauerrasen
-ot_nat_area
-Umweltsensible Dauerrasen - Oberfläche
-irrigation
-Bewässerung
-irrigation_source
-Bewässerungsquelle
-irrigation_type
-Art der Bewässerung
-
-
+| ogc_fid                              |                                       |
+| id                                   | ARKOD ID                              |
+| land_use_id                          | code of land use                      |
+| home_name                            | home name                             |
+| area                                 | area (in sq m)                        |
+| perim                                | perimeter                             |
+| slope                                | slope of parcel (in %)                |
+| z_avg                                | average height (in m)                 |
+| eligibility_coef                     | acceptance coefficient                |
+| mines_status                         | demining status                       |
+| mines_year_removed                   | year of demining                      |
+| water_protect_zone                   | water protection area                 |
+| natura2000                           | NATURA2000 (in m2)                    |
+| natura2000_ok                        | Natura2000 - mowing delay             |
+| natura2000_pop                       | inside NATURA2000 POP                 |
+| natura2000_povs                      | inside NATURA2000 POVS                |
+| anc                                  | restricted surface                    |
+| anc_area                             | area of restricted surface (in m2)    |
+| rp                                   | vulnerable areas                      |
+| sanitary_protection_zone             | sanitary protection zone              |
+| tvpv                                 | meadow with high degree of natural value |
+| ot_nat                               | environmentally sensitive permanent meadow |
+| ot_nat_area                          | environmentally sensitive permanent meadow - surface |
+| irrigation                           | irrigation                            |
+| irrigation_source                    | irrigation source                     |
+| irrigation_type                      | type of irrigation                    |
 
 ## Largest classes and stats
 Data from 2020:
