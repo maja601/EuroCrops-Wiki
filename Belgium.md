@@ -39,7 +39,7 @@ Data from 2019:
 
 274 different classes
 
-601.349 unique parcels
+601,349 unique parcels
 
 ## Wallonia
 
