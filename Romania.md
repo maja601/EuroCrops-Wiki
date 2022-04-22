@@ -36,4 +36,4 @@ Data:
 
 30 different classes
 
-329.707 unique parcels
+329,707 unique parcels
