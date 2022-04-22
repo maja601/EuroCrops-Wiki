@@ -43,4 +43,4 @@ Data from 2021:
 
 174 different classes
 
-255.710 unique parcels with 532 being `NULL` 
+255,710 unique parcels with 532 being `NULL` 
