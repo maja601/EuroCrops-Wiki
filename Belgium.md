@@ -58,4 +58,4 @@ Data from 2018:
 
 149  different classes
 
-340.899 unique parcels
+340,899 unique parcels
