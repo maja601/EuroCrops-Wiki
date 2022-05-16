@@ -1,5 +1,5 @@
 ## Reference, Data Source and License
-**Reference:** Departement Landbouw en Visserij – [Landbouwcijfers](www.vlaanderen.be/landbouwcijfers)
+**Reference:** Departement Landbouw en Visserij – [Landbouwcijfers](https://landbouwcijfers.vlaanderen.be/)
 
 **Source of the data:** [landbouwcijfers.vlaanderen.be](https://landbouwcijfers.vlaanderen.be/open-geodata-landbouwgebruikspercelen)
 
