@@ -19,6 +19,8 @@ _(Ministry of Agriculture, 2021)_
 | SHAPE.AREA                           | area (in ha)                          |
 | SHAPE.LEN                            |                                       |
 
+## Available years
+2020, 2021, 2022
 
 ## Largest classes and stats
 Data from 2021:
