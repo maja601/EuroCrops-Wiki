@@ -18,6 +18,9 @@
 | **KULTURCODE** | crop code |
 | ANTRAGSJAH | year of application |
 
+### Available years
+2021
+
 ### Largest classes and stats
 Data from 2021:
 
@@ -51,6 +54,9 @@ Partial payments requested and found eligible in NRW [Internet]. Geoportal; 2022
 | ELER | |
 | WJ | year |
 | DAT_BEARB | date of data edits |
+
+### Available years
+2021
 
 ### Largest classes and stats
 Data from 2021:
