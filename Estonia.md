@@ -24,6 +24,9 @@ avaliku juurdepääsu piirangud puuduvad (_no public access restrictions_)
 | taotleja_nimi | name of applicant |
 | taotleja_registrikood | applicant's registration code |
 
+## Available years
+2021
+
 ## Largest classes and stats
 Data from 2021:
 
