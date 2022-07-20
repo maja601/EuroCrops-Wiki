@@ -34,6 +34,9 @@
 |  WGS84_LG | |
 |  WGS84_BG | |
 
+### Available years
+2019, 2020, 2021
+
 ### Largest classes and stats
 Data from 2019:
 
@@ -52,6 +55,9 @@ Data from 2019:
 | **CULT_NOM** | crop type name |
 | GROUPE_CUL | vague plant supergroup |
 | SURF_HA | area (in ha) |
+
+### Available years
+2015, 2016, 2017, 2018, 2019
 
 ### Largest classes and stats
 Data from 2018:
