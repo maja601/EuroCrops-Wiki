@@ -33,6 +33,8 @@ Metaduomenys (Metadata) / Duomenų resursas (1) (Data Identification (1)) / Teis
 | Shape_Len                            | perimeter of parcel                   |
 | Shape_Area                           | exact area (in sq m)                  |
 
+## Available years
+2020, 2021 
 
 ## Largest classes and stats
 Data from 2021:
