@@ -32,6 +32,9 @@ using the same data. Restrictions on use Specification of the data source:
 | GML_GEOM                             |                                       |
 | GML_LENGTH                           |                                       |
 
+## Available years
+2015, 2016, 2017, 2018, 2019, 2020, 2021
+
 ## Largest classes and stats
 Data from 2021:
 
