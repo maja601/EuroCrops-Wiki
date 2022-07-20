@@ -18,6 +18,9 @@ We had the data from an outdated website. From now on the data is available via 
 | GBANMELDT |  |
 | GB |  |
 
+## Available years
+2017, 2018, 2019, 2020, 2021
+
 ## Largest classes and stats
 Data from 2019:
 
