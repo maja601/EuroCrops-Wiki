@@ -37,6 +37,9 @@ _"In accordance with the National Spatial Data Infrastructure Strategy 2020, the
 | irrigation_source                    | irrigation source                     |
 | irrigation_type                      | type of irrigation                    |
 
+## Available years
+2015, 2016, 2017, 2018, 2019, 2020, 2021
+
 ## Largest classes and stats
 Data from 2020:
 
