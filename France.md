@@ -15,6 +15,9 @@
 | CULTURE_D1 | |
 | CULTURE_D2 | |
 
+## Available years
+2015, 2016, 2017, 2018, 2019
+
 ## Largest classes and stats
 Data from 2018:
 
