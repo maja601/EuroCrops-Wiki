@@ -37,6 +37,8 @@ Feature Restrictions     Unrestricted
 | ARV_NUM_CASFR_60                     |                                       |
 | PUN_CUL                              | three digit numerical code (likely related to CLA_OCU_DESCR) |
 
+## Available years
+2017, 2018, 2019, 2020, 2021
 
 ## Largest classes and stats
 (Disclaimer: Multiple crop classes for several parcels. We only included the first one in the harmonisation.)
