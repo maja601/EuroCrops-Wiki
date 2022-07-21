@@ -38,6 +38,9 @@ _License: No License Provided_
 | Shape_Leng                           |                                       |
 | Shape_Area                           | area (in sq m)                        |
 
+## Available years
+2020, 2021, 2022
+
 ## Largest classes and stats
 Data from 2021:
 
