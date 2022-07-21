@@ -16,7 +16,7 @@ using the same data. Restrictions on use Specification of the data source:
 | Original attribute table column name |                                       |
 | ------------------------------------ |---------------------------------------|
 | fid                                  |            |
-| FS_KENNUNG                           | field piece id for INVEKOS connection |
+| FS_KENNUNG                           | field parcel id for INVEKOS connection |
 | **SNAR_BEZEICHNUNG**                 | crop name                             |
 | SL_FLAECHE_BRUTTO_HA                 | gross area of field (in ha)                                      |
 | GEO_ID                               |                                       |
