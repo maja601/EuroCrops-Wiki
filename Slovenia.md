@@ -26,6 +26,9 @@ Access constraint:  No constraint
 | **CROP_LATIN**                       | crop type in latin or english language|
 | COLOR                                | color (hex), used for display by MAFF |
 
+## Available year
+2019, 2020, 2021
+
 ## Largest classes and stats
 Data from 2021:
 
