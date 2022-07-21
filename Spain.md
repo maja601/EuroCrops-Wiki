@@ -50,6 +50,8 @@ c) It is obliged to inform the end user, in any reproduction, distribution or pu
 | Shape_Area                           |                                       |
 | IDUSO21                              | original code **just for the province of Navarra**|
 
+## Available years
+2020, 2021, 2022
 
 ## Largest classes and stats
 Data from 2021:
