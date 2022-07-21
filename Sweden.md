@@ -20,6 +20,8 @@ Obtained from the [Swedish Board of Agriculture](https://djur.jordbruksverket.se
 | SHAPE_AREA                           | gross area of field (in ha)           |
 | SHAPE_LEN                            | perimeter                             |
 
+## Available years
+2020, 2021
 
 ## Largest classes and stats
 Data from 2021:
