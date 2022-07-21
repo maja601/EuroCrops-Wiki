@@ -19,6 +19,8 @@
 | length                               | (likely perimeter of parcel)          |
 | area                                 | area (in sq m)                        |
 
+## Available years
+2020, 2021
 
 ## Largest classes and stats
 Data from 2021 (assumed):
