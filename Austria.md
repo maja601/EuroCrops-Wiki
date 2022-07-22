@@ -23,7 +23,7 @@ using the same data. Restrictions on use Specification of the data source:
 | INSPIRE_ID                           |                                       |
 | GML_ID                               |                                       |
 | GML_IDENTIFIER                       |                                       |
-| _SNAR_CODE_                            |                                       |
+| _SNAR_CODE_                          |                                       |
 | GEO_PART_KEY                         |                                       |
 | LOG_PKEY                             |                                       |
 | GEOM_DATE_CREATED                    |                                       |
