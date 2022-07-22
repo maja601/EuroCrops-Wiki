@@ -21,7 +21,7 @@ _License: No License Provided_
 | LOKALITA_C                           | municipality code                     |
 | SPOSOBILOS                           | eligibility for subsidies             |
 | SPOSOBIL_1                           | code of eligibility for subsidies     |
-| ***KULTURA**                         | arable crop (8 classes)               |
+| **KULTURA**                          | arable crop (8 classes)               |
 | _KULTURA_CI_                         | code of arable crop                   |
 | Shape_Leng                           |                                       |
 | Shape_Area                           | area (in sq m)                        |
