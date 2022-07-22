@@ -12,7 +12,7 @@
 |  REF_ID | |
 |  GWSCOD_V | pre crop code |
 |  GWSNAM_V | pre crop name |
-|  **GWSCOD_H** | crop code |
+|  _GWSCOD_H_ | crop code |
 |  **GWSNAM_H** | crop name |
 |  GWSGRP_H | |
 |  GWSGRPH_LB | |
@@ -51,7 +51,7 @@ Data from 2019:
 | ------------------------------------ | --------- |
 | OBJECTID | ID of the objects |
 | CAMPAGNE | year of inventory |
-| CULT_COD | crop type code |
+| _CULT_COD_ | crop type code |
 | **CULT_NOM** | crop type name |
 | GROUPE_CUL | vague plant supergroup |
 | SURF_HA | area (in ha) |
