@@ -15,7 +15,7 @@
 | objectid                             | object identification number          |
 | gewascategorie                       | plant category                        |
 | **gewas**                            | crop type                             |
-| gewascode                            | code of crop type                     |
+| _gewascode_                          | code of crop type                     |
 | length                               | (likely perimeter of parcel)          |
 | area                                 | area (in sq m)                        |
 
