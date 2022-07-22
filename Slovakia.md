@@ -14,15 +14,15 @@ _License: No License Provided_
 | ID_KD                                | ID KD                                 |
 | ZKODKD                               |                                       |
 | VYMERA                               | area extent                           |
-| KODKD                                | code KD                               |
+| _KODKD_                              | code KD                               |
 | **NUMKD**                            | value KD (40 classes)                 |
 | **PORTS**                            | (99 classes)                          |
-| LOKALITA                             | county                                |
-| LOKALITA_C                           | county code                           |
+| LOKALITA                             | municipality                          |
+| LOKALITA_C                           | municipality code                     |
 | SPOSOBILOS                           | eligibility for subsidies             |
 | SPOSOBIL_1                           | code of eligibility for subsidies     |
-| ***KULTURA**                         | arable crop (9 classes)               |
-| KULTURA_CI                           | code of arable crop                   |
+| ***KULTURA**                         | arable crop (8 classes)               |
+| _KULTURA_CI_                         | code of arable crop                   |
 | Shape_Leng                           |                                       |
 | Shape_Area                           | area (in sq m)                        |
 
