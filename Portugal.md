@@ -29,8 +29,8 @@ Feature Restrictions     Unrestricted
 | PAR_ID                               |                                       |
 | CAT_OCU_SIGLA                        | vague surface usage (abbreviation)    |
 | CAT_OCU_DESCR                        | vague surface usage                   |
-| CLA_OCU_SIGLA                        | type of surface covering (abbreviation) |
-| **CLA_OCU_DESCR**                    | type of surface covering              |
+| CLA_OCU_SIGLA                        | type of surface cover  (abbreviation) |
+| **CLA_OCU_DESCR**                    | type of surface cover                 |
 | ARV_NUM_OLIV                         |                                       |
 | ARV_NUM_OLIV_30                      |                                       |
 | ARV_NUM_CASFR                        |                                       |
