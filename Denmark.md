@@ -14,7 +14,7 @@ We had the data from an outdated website. From now on the data is available via 
 | CVR |  |
 | MARKNR |  |
 | **AFGROEDE** | Cultivated crop |
-| AFGKODE | Cultivated crop code |
+| _AFGKODE_ | Cultivated crop code |
 | GBANMELDT |  |
 | GB |  |
 
