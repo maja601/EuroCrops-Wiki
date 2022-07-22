@@ -12,7 +12,7 @@ _"In accordance with the National Spatial Data Infrastructure Strategy 2020, the
 | ------------------------------------ |---------------------------------------|
 | ogc_fid                              |                                       |
 | id                                   | ARKOD ID                              |
-| land_use_id                          | code of land use                      |
+| _land_use_id_                        | code of land use                      |
 | home_name                            | home name                             |
 | area                                 | area (in sq m)                        |
 | perim                                | perimeter                             |
