@@ -11,7 +11,7 @@ _(Ministry of Agriculture, 2021)_
 | OBJECTID                             | Identification number of each object  |
 | PERIOD_CODE                          | year                                  |
 | PARCEL_ID                            | Identification number of each parcel  |
-| PRODUCT_CODE                         | crop type ID                          |
+| _PRODUCT_CODE_                       | crop type ID                          |
 | AID_FORMS                            | subsidy type                          |
 | AREA_DECLARED                        | area (in ha)                          |
 | DATA_CHANGED_DATE                    | date of change in data                |
