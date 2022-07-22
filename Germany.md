@@ -44,7 +44,7 @@ Partial payments requested and found eligible in NRW [Internet]. Geoportal; 2022
 | INSPIRE_ID | |
 | FLIK | |
 | AREA_H | area (in ha) |
-| **CODE** | crop code |
+| _CODE_ | crop code |
 | **CODE_TXT** | crop name |
 | USE_CODE | |
 | USE_TEXT | |
