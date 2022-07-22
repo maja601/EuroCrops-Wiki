@@ -15,7 +15,7 @@ avaliku juurdepääsu piirangud puuduvad (_no public access restrictions_)
 | taotlusaasta | year |
 | pollu_id |  |
 | pindala_ha | area (in ha) |
-| taotletud_kultuur | requested crop culture |
+| _taotletud_kultuur_ | requested crop culture |
 | taotletud_maakasutus | requested land use |
 | niitmise_tuvastamise_staatus | mowing detection status |
 | niitmise_tuvast_ajavahemik | mowing detection period |
