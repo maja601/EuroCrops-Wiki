@@ -15,7 +15,7 @@
 | FLIK | |
 | SCHLAGNR | parcel ID |
 | TEILSCHLAG | |
-| **KULTURCODE** | crop code |
+| _KULTURCODE_ | crop code |
 | ANTRAGSJAH | year of application |
 
 ### Available years
