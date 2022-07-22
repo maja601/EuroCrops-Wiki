@@ -20,7 +20,7 @@ Access constraint:  No constraint
 | ------------------------------------ |---------------------------------------|
 | ID                                   | crop type polygon identification number|
 | GERK_PID                             | GERK polygon identification number    |
-| SIFRA_KMRS                           | crop type class                       |
+| _SIFRA_KMRS_                         | crop type class                       |
 | AREA                                 | GERK area (in sq m)                   |
 | **RASTLINA**                         | crop type in slovenian language       |
 | **CROP_LATIN**                       | crop type in latin or english language|
