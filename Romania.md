@@ -12,7 +12,7 @@
 | ------------------------------------ |---------------------------------------|
 | COUNTRYCOD                           | country abbreviation                  |
 | LC_CLASS                             |                                       |
-| LC_MAPCODE                           | abbreviation of land surface          |
+| _LC_MAPCODE_                         | abbreviation of land surface          |
 | LC_CLASS_N                           | land surface (Romanian)               |
 | **LC_CLASS_E**                       | land surface (English)                |
 | LC_CLASS_L                           |                                       |
