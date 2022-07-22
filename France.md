@@ -11,7 +11,7 @@
 | ID_PARCEL | parcel ID|
 | SURF_PARC | area (in ha) |
 | **CODE_CULTU** | code of crop (string) |
-| CODE_GROUP | code of crop (integer) |
+| _CODE_GROUP_ | code of crop (integer) |
 | CULTURE_D1 | |
 | CULTURE_D2 | |
 
