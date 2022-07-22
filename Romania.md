@@ -24,7 +24,7 @@
 | LC_CLASS_4                           |                                       |
 | LC_MAPCO_3                           |                                       |
 | LC_CLASS_5                           |                                       |
-| NOTE_                                | note regarding the land surface       |
+| NOTE_                                | comment regarding the land surface    |
 | BEGINLIFES                           |                                       |
 | ENDLIFESPA                           |                                       |
 | SOURCE                               |                                       |
