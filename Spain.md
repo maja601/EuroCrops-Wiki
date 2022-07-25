@@ -37,7 +37,7 @@ c) It is obliged to inform the end user, in any reproduction, distribution or pu
 | SUPERFICIE                           | surface area                          |
 | PERIMETRO                            | perimeter                             |
 | PROVINCIA                            | province                              |
-| MUNICIPIO                            | county                                |
+| MUNICIPIO                            | municipality                          |
 | AGREGADO                             |                                       |
 | ZONA                                 | zone                                  |
 | POLIGONO                             | polygon                               |
