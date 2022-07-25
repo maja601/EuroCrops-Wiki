@@ -11,13 +11,13 @@ Obtained from the [Swedish Board of Agriculture](https://djur.jordbruksverket.se
 | SKIFTESBET                           |                                       |
 | EFATYPE                              |                                       |
 | SAMISKIFTE                           |                                       |
-| AREAL_SKIF                           | gross area of field (in ha)           |
+| AREAL_SKIF                           | area (in ha)                          |
 | **GRDKOD_MAR**                       | crop name                             |
 | GRDKOD_UND                           |                                       |
 | SPECMAINT                            |                                       |
-| AREAL                                | gross area of field (in ha)           |
+| AREAL                                | area (in ha)                          |
 | OMKRETS                              | perimeter                             |
-| SHAPE_AREA                           | gross area of field (in ha)           |
+| SHAPE_AREA                           | area (in ha)                          |
 | SHAPE_LEN                            | perimeter                             |
 
 ## Available years
