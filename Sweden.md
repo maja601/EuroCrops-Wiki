@@ -6,7 +6,7 @@ Obtained from the [Swedish Board of Agriculture](https://djur.jordbruksverket.se
 ## Attribute table and feature description
 | Original attribute table column name |                                       |
 | ------------------------------------ |---------------------------------------|
-| ID                                   | field piece id for national connection|
+| ID                                   | field parcel id for national connection|
 | SAMIBLOCK                            |                                       |
 | SKIFTESBET                           |                                       |
 | EFATYPE                              |                                       |
