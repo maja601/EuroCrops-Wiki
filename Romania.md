@@ -40,3 +40,5 @@ Data:
 30 different classes
 
 329,707 unique parcels
+
+<p align="center"><img width=100% src="https://user-images.githubusercontent.com/33942086/205454443-33f88710-7899-482b-800a-ec6ac7ac518d.png"></p>
