@@ -65,6 +65,8 @@ Data from 2021:
 
 732,845 unique parcels
 
+<p align="center"><img width=100% src="https://user-images.githubusercontent.com/33942086/205453955-18dfd25a-203d-419d-8c1f-acd17fc60815.png"></p>
+
 ## Brandenburg
 ### Source
 https://geobroker.geobasis-bb.de/gbss.php?MODE=GetProductInformation&PRODUCTID=996f8fd1-c662-4975-b680-3b611fcb5d1f
