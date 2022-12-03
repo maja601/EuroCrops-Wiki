@@ -28,3 +28,5 @@ Data from 2021 (assumed):
 326 different classes
 
 767,034 unique parcels
+
+<p align="center"><img width=100% src="https://user-images.githubusercontent.com/33942086/205454339-71af1a96-2608-42e7-be6e-ea04d2143e8e.png"></p>
