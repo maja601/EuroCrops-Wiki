@@ -23,7 +23,7 @@
 2020, 2021
 
 ## Largest classes and stats
-Data from 2021 (assumed):
+Data from 2020:
 
 326 different classes
 
