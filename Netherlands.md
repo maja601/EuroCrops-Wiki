@@ -1,5 +1,5 @@
 ## Data source
-- [PDOK](https://www.pdok.nl/geo-services/-/article/basisregistratie-gewaspercelen-brp-#395b17a6003c0d0e7891f6ba0727b0fa) (Not recommended due to missing information about the year)
+- [PDOK](https://service.pdok.nl/rvo/brpgewaspercelen/atom/v1_0/basisregistratie_gewaspercelen_brp.xml) 
 - [Nationaal Georegister](https://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search;jsessionid=C5EF30EA1AB83278754FD85BC9C76BE4#/metadata/dd8e0fb8-0f09-40ba-a884-7e23c0680ae2) (Newer and recommended)
 ## License
 - PDOK Data
