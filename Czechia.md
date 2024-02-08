@@ -2,6 +2,7 @@
 **Ministerstvo zemědělství**
 
 **Field Parcel Source:** [Data LPIS - SHP za celou ČR](https://eagri.cz/public/portal/mze/farmar/LPIS/export-lpis-rocni-shp)
+Please note the CRS is EPSG:5514
 
 **Crop Declaration Source:** [Deklarace plodin](https://eagri.cz/public/portal/mze/farmar/LPIS/deklarace-plodin)
 
