@@ -46,7 +46,25 @@ Data from 2019:
 
 ## Wallonia
 
-### Attribute Table
+Two sources are available for Wallonia
+
+[INSPIRE Geoportal](https://inspire-geoportal.ec.europa.eu/srv/eng/catalog.search#/metadata/2a0d9be0-ac3d-443e-9db0-a7cfb0f128e2): 2015-2022
+
+Open access, no conditions apply to access and use.
+
+[Géoportail de la Wallonie](https://geoportail.wallonie.be/catalogue/f2b472d1-56b3-4053-81da-5910cc020e6a.html): 2015-2022
+
+Open access upon registration, but redistribution not allowed.
+
+Main difference between the datasets: Géoportail de la Wallonie contains Crop code in addition to Crop Name.
+
+### Attribute Table INSPIRE Geoportal
+| Original attribute table column name |           |
+| ------------------------------------ | --------- |
+| description | Crop Type Name |
+
+
+### Attribute Table Géoportail de la Wallonie
 | Original attribute table column name |           |
 | ------------------------------------ | --------- |
 | OBJECTID | ID of the objects |
